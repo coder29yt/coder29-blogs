@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCh58yWkkVl2wa_MlVB_ox9iclSp1Tv57A",
-  authDomain: "coder29-blogs-747db.firebaseapp.com",
-  projectId: "coder29-blogs-747db",
-  storageBucket: "coder29-blogs-747db.appspot.com",
-  messagingSenderId: "916670384087",
-  appId: "1:916670384087:web:aa4df92fc562d5f6756d92"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_SENDER_ID",
+  appId: "YOUR_APP_ID"
 };
 
 // Initialize Firebase
